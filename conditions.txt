@@ -1,0 +1,30 @@
+if it's hot    
+    It's a hot day
+    Drink plenty of water
+otherwise if it's cold
+  It's a cold day
+  Wear warm clothes
+Otherwise
+  It's a lovely day
+  
+if applicant has high income OR good credit  Eligible for loan
+
+if applicant has good credit and doesn't have a criminal record
+
+AND: both
+OR: at least one
+NOT
+
+if temperature is greater than 30
+  it's a hot day
+otherwise if it's less than 10
+   it's a cold day
+otherwise
+   it's neither hot nor cold
+   
+if name is less than 3 characters long 
+   name must be at least 3 characters
+otherwise if it's more than 50 characters long
+   name can be a maximum of 50 characters
+otherwise 
+   name looks good!
